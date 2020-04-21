@@ -17,3 +17,6 @@ This is a simple web project, deployment can be on web server or even local
 ### Copyright 
 
 Git.Training
+
+##How to contribute
+Please  for this repository and then issue Pull Requests for review.
